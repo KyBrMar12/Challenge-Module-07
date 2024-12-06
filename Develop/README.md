@@ -8,7 +8,8 @@ This is a generated README.md file using the integrated terminal and applying ou
 
 
 ## Demo Video 
-📽️- [Video demo of README generator](https://drive.google.com/file/d/11JQjV62DXJFTX2LhhoZtiVBToEUw5MER/view)
+📽️- [Full Video demo of README generator](https://drive.google.com/file/d/11JQjV62DXJFTX2LhhoZtiVBToEUw5MER/view)<br/> - 8 minutes
+📽️- [Functionality demo of README generator](https://drive.google.com/file/d/12s1NGh0PzDYathmIDTokQUg58NTwh7dU/view) - 4.5 minutes
 
 
 ## Table of Contents 📋 
