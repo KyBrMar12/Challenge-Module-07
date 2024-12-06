@@ -21,6 +21,7 @@ const questions = [
         type: "input",
         name: "installation",
         message: "Provide installation instructions:",
+        default: "npm install",
     },
     {
         type: "input",

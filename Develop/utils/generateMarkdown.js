@@ -43,12 +43,16 @@ function generateMarkdown(data) {
 
 ${renderLicenseBadge(data.license)}
 
-## 📝 Description
+## Description 
+📝 
 ${data.description}
 
-## 📽️ Demo Video  
 
-## 📋 Table of Contents
+## Demo Video 
+📽️- [Video demo of README generator](https://drive.google.com/file/d/11JQjV62DXJFTX2LhhoZtiVBToEUw5MER/view)
+
+
+## Table of Contents 📋 
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -56,21 +60,32 @@ ${data.description}
 - [Tests](#tests)
 - [Questions](#questions)
 
-## 💽 Installation
+
+## Installation
+💽 
 ${data.installation}
 
-## 🖱️ Usage
+
+## Usage
+🖱️ 
 ${data.usage}
+
 
 ${renderLicenseSection(data.license)}
 
-## ✍️ Contributing
+
+## Contributing
+✍️ 
 ${data.contributing}
 
-## 🖥️ Tests
+
+## Tests
+🖥️ 
 ${data.tests}
 
-## ❓ Questions
+
+## Questions
+❓ 
 For additional questions, reach out to me via:
 - GitHub: [${data.github}](https://github.com/${data.github})
 - Email: ${data.email}
