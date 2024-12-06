@@ -1,4 +1,4 @@
-# Challenge Module 07
+# Kyle's Generated README file
 
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
