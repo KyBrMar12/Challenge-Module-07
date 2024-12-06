@@ -7,8 +7,8 @@
 This is a generated README.md file using the integrated terminal and applying our past lessons using packages from dependencies such as "inquirer".
 
 
-## Demo Video 
-📽️- [Full Video demo of README generator](https://drive.google.com/file/d/11JQjV62DXJFTX2LhhoZtiVBToEUw5MER/view)<br/> - 8 minutes
+## Demo Video(s)
+📽️- [Full Video demo of README generator](https://drive.google.com/file/d/11JQjV62DXJFTX2LhhoZtiVBToEUw5MER/view) - 8 minutes<br/>
 📽️- [Functionality demo of README generator](https://drive.google.com/file/d/12s1NGh0PzDYathmIDTokQUg58NTwh7dU/view) - 4.5 minutes
 
 
